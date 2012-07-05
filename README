@@ -1,0 +1,8 @@
+1)Download the zipped repository.
+2)Copy the unzipped folder "mofluid" and paste it into your localserver path.
+3)To install Mofluid,go to your web browser and go to site "localhost/mofluid" and follow the installation instructions.
+4)After installing, go to site "localhost/mofluid/import_products" to fetch the products.
+5)You are ready with your e-commerce site.
+
+To go to payment page using paypal, go to admin->store administration->configuration->payment settings  
+and edit the payment methods and payment getaways to suit your paypal developer account.
